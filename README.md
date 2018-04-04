@@ -1,7 +1,10 @@
 # uix-sprint
 Exercise for UIX delivering HTML/CSS based on a design and considering how components comprise an overall product.
 
-# UIX Look Alike
+## Duration of Completion
+For the testing of my rapid prototyping skills, this project took XXX time to complete.
+
+# UIX Look Alike Assignment Outling
 
 Exercise for UIX delivering HTML/CSS based on a design and considering how components comprise an overall product.
 
