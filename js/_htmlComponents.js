@@ -1,5 +1,18 @@
 "use strict";
 
+let pageNav = ` <ul>
+                    <li>HOME</li>
+                    <li>SHOP</li>
+                    <li>ABOUT ME</li>
+                    </ul>
+                    <h1>Deina's Bites</h1>
+                    <ul>
+                    <li>INSTAGRAM</li>
+                    <li>FACEBOOK</li>
+                    <li>YOUTUBE</li>
+                    <li>CART</li>
+                </ul>`;
+
 let pageFooter = ` <section>
 <h2>SHOP:</h2>
 <p>About</p>
@@ -24,4 +37,4 @@ let pageFooter = ` <section>
 &copy; 2023 by Deina's Bites.
 </section>`;
 
-module.exports = {pageFooter};
+module.exports = {pageNav, pageFooter};
