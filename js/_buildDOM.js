@@ -1,13 +1,11 @@
 "use strict";
 
-let htmlParts = require('./_htmlComponents');
-
 // Global DOM Partials
 
-let buildFooter = () => {
-    $('footer').html(htmlParts.pageFooter);
+let buildDOM = (element, htmlPartial) => {
+    $(element).html(htmlPartial);
 };
 
 // Page Specific DOM Partials
 
-module.exports = { buildFooter };
+module.exports = { buildDOM };
