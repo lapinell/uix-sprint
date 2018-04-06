@@ -3,6 +3,7 @@ Exercise for UIX delivering HTML/CSS based on a design and considering how compo
 
 ## Duration of Completion
 For the testing of my rapid prototyping skills, this project took XXX time to complete.
+30 minutes
 
 # UIX Look Alike Assignment Outling
 
